@@ -6,7 +6,7 @@
 https://arxiv.org/pdf/1802.02511.pdf
 ---
 ## Dataset
-* [Health_Data.csv](https://raw.githubusercontent.com/leehaesung/My_Heart_Rate_For_Time_Series_Analysis/master/data/Health_Data.csv)
+* [Health_Data.csv](https://github.com/tomkaX/HealthyBuddy/blob/main/data/Health_Data.csv)
 * [export.xml](https://drive.google.com/file/d/1qaV1iFTpYeNUiEfya9DojwNWZ0hohiIe/view?usp=sharing)
 
 
