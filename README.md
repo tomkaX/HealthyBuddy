@@ -21,7 +21,7 @@
 
 ---
 
-## Data Visualization 
+## Data Visualization
 
 * Prediction
 
@@ -60,7 +60,7 @@
 ## References
 * [How to export and import your Health data](https://www.idownloadblog.com/2015/06/10/how-to-export-import-health-data/?fbclid=IwAR0_qXo1ZwE0ZtSxVksTAu9g82d9uzVkRoVRkZFQDPFzeHq8wxTn77-CHZo)
 
-* [Understand Your Apple Watch's Heart Rate Numbers ](https://vitals.lifehacker.com/understand-your-apple-watchs-heart-rate-numbers-1831767054) 
+* [Understand Your Apple Watch's Heart Rate Numbers ](https://vitals.lifehacker.com/understand-your-apple-watchs-heart-rate-numbers-1831767054)
 
 * [Deep PPG: Large-Scale Heart Rate Estimation with
 Convolutional Neural Networks](https://www.mdpi.com/1424-8220/19/14/3079/pdf)
